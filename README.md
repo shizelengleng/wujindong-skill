@@ -165,8 +165,27 @@ exes/wujindong/
 - 本仓库只含蒸馏后的 Skill 文件，仍涉及真实人物言语风格——请勿用于骚扰、跟踪或冒充本人
 - 仅适合导出**自己的**微信账号数据
 
+## v2：Distilly 版（`distilly/` 目录）
+
+首版用 ex-skill 生成后，反馈"吐槽味不足、缺无厘头"，于是换用 [Distilly](https://github.com/titanwings/distilly)（原同事.skill，15k+ stars）重建：
+
+| | v1（根目录，ex-skill） | v2（`distilly/`，Distilly） |
+|---|---|---|
+| 框架 | ex-skill：Memory + Persona | Distilly：**Work + Persona 双轨** |
+| 吐槽 | 情感/记忆向，较温和 | 冲突模式、卖惨剧本写成"情境→反应"行为规则 |
+| 无厘头 | 无 | 定制「**观察→命名**」机制：碎片观察起头 → 对话中完善 → 收束命名 → 阅历比喻封顶（如"保安亭效应"） |
+| 生成方式 | 手写 Write | 官方 `skill_writer.py`，支持 evolve/版本管理 |
+| 触发词 | `/wujindong` | `/colleague-wu-jin-dong` |
+
+素材完全复用（私聊 5512 + 群聊 819，Step 1-4 的解密导出流程见上文），仅重建分析与生成层。
+
+「观察→命名」机制的关键修正（人工反馈）：他的理论**不是伪理论**——源于自身经历与近期观察，在对话中逐渐完善，最后总体概括并赋予带阅历的经验比喻；命名可以荒诞，内核必须是真的。
+
+---
+
 ## 致谢
 
 - [xscanzm/wechat-4x-decrypt](https://github.com/xscanzm/wechat-4x-decrypt) — 微信 4.x 解密检索 skill
 - [TANGandXUE/wcdb-key-tool](https://github.com/TANGandXUE/wcdb-key-tool) — 进程内存取密钥
-- [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill) — 蒸馏框架
+- [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill) — 蒸馏框架 v1
+- [titanwings/distilly](https://github.com/titanwings/distilly) — 蒸馏框架 v2
