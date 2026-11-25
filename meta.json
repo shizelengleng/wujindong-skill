@@ -1,0 +1,27 @@
+{
+  "name": "吴锦东",
+  "slug": "wujindong",
+  "created_at": "2026-11-25T13:10:00+08:00",
+  "updated_at": "2026-11-25T13:10:00+08:00",
+  "version": "v1",
+  "profile": {
+    "together_duration": "大学同学（有记录162天）",
+    "apart_since": "N/A",
+    "occupation": "大学生（华南师范大学）",
+    "gender": "",
+    "mbti": "",
+    "zodiac": ""
+  },
+  "tags": {
+    "personality": ["话痨", "短句连发", "戏精", "爱打三角洲", "现编理论", "表情包控", "气氛组"],
+    "attachment_style": "主动粘人型",
+    "love_language": "陪伴与分享"
+  },
+  "impression": "大学损友：主动爱玩、委屈就连发[大哭]、正经时能长文聊AI、戏精与靠谱自如切换",
+  "memory_sources": [
+    "wechat-4x-decrypt/out/digest.txt (私聊5512条, 2025-11-13~2026-11-24)",
+    "wechat-4x-decrypt/out/group_wjd.txt (群聊819条, 16个群)",
+    "用户口述: 大学同学, 爱打三角洲"
+  ],
+  "corrections_count": 0
+}
