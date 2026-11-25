@@ -45,8 +45,8 @@
   "lifecycle": {
     "status": "active",
     "created_at": "2026-11-25T07:01:56.994171+00:00",
-    "updated_at": "2026-11-25T07:01:56.994171+00:00",
-    "version": "v1"
+    "updated_at": "2026-11-25T14:16:48.128700+00:00",
+    "version": "v2"
   },
   "generation": {
     "engine": "distilly",
@@ -141,7 +141,7 @@
   },
   "summary": "吴锦东, 华南师范大学 大学生（课程小组策划/班级通知分发/赛事评审）",
   "created_at": "2026-11-25T07:01:56.994171+00:00",
-  "updated_at": "2026-11-25T07:01:56.994171+00:00",
-  "version": "v1",
+  "updated_at": "2026-11-25T14:16:48.128700+00:00",
+  "version": "v2",
   "corrections_count": 0
 }
